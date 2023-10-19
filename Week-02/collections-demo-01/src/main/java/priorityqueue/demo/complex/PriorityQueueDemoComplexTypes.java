@@ -14,15 +14,15 @@ public class PriorityQueueDemoComplexTypes {
 		Employee david = new Employee("David", 22000.D, 3);
 		
 		
-//		priorityQueueOrderingBasedOnHighestEmployeeSalary(
+		/*
+		 * priorityQueueOrderingBasedOnHighestEmployeeSalary( michael, john, david);
+		 */		
+		
+//		priorityQueueOrderingBasedOnLowestEmployeeSalary(
 //			michael, john, david);
-		
-		
-		priorityQueueOrderingBasedOnLowestEmployeeSalary(
-			michael, john, david);
 
-//		priorityQueueOrderingBasedOnHighestEmployeeWorkExperience(
-//				michael, john, david);
+		priorityQueueOrderingBasedOnHighestEmployeeWorkExperience(
+				michael, john, david);
 		
 	}
 	
