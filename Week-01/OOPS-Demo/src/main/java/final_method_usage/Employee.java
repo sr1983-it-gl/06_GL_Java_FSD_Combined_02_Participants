@@ -5,6 +5,7 @@ public class Employee {
 	private String firstName;
 	private String lastName;
 	private int age;
+	private Printer printer;
 	
 	public Employee(String firstName, String lastName, int age) {
 		
