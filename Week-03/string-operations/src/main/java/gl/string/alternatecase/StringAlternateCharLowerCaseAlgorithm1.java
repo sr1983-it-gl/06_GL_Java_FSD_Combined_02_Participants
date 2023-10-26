@@ -21,7 +21,7 @@ public class StringAlternateCharLowerCaseAlgorithm1 {
 
 	public static void main(String[] args) {
 		
-		new StringAlternateCharUpperCaseAlgorithm1().
+		new StringAlternateCharLowerCaseAlgorithm1().
 			run("the weeekend plan");
 	}
 	

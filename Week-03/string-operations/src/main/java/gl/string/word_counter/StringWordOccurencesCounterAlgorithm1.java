@@ -1,3 +1,4 @@
+
 package gl.string.word_counter;
 
 import java.util.HashMap;

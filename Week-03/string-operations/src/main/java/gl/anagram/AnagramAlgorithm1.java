@@ -22,6 +22,8 @@ public class AnagramAlgorithm1  {
 			return false;
 		}
 		
+		// 'a', 'z', 'i'
+		// 'a', 'i', 'z'
 		char ch1Array[] = s1.toCharArray();
 		char ch2Array[] = s2.toCharArray();
 				
@@ -41,7 +43,7 @@ public class AnagramAlgorithm1  {
 	
 	public static void main(String[] args) {
 		
-//		String[] input = {"heart", "earth"};
+//		String[] input = {"triangle", "integral"};
 		String[] input = {"hey", "hai"};
 		
 		Boolean outcome 

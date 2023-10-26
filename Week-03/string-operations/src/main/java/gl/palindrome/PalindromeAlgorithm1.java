@@ -25,7 +25,7 @@ public class PalindromeAlgorithm1 {
 		// level
 		// radar
 		boolean result 
-			= new PalindromeAlgorithm1().run("level");
+			= new PalindromeAlgorithm1().run("hello");
 		System.out.println(result);
 		
 	}

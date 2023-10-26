@@ -18,7 +18,7 @@ public class StringReverseAlgorithm2 {
 	
 	public static void main(String[] args) {
 		
-		String input = "Hello how are you";		
+		String input = "Java Course";		
 		String output = new StringReverseAlgorithm2().run(input);
 		
 		System.out.println(input);
