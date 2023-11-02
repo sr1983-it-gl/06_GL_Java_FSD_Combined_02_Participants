@@ -126,11 +126,8 @@ public class StringSecondMostFrequentCharFinderAlgorithm1 {
 		
 		algorithm1.run(input);
 		
-	}
-	
-	
+	}	
 }
-
 
 class MapEntryComparator implements Comparator<Map.Entry<Character, Integer>>{
 
